@@ -5,8 +5,7 @@ It serves as a portfolio of my learning journey, covering data analysis, visuali
 
 ## Highlights
 - Final assignments from multiple Coursera courses
-- Data visualizations created in Excel
-- Interactive dashboards built with IBM Cognos Analytics or Google Looker Studio
+- Data visualizations
 - Practical applications of data analytics concepts in real-world scenarios
 
 ## Purpose
